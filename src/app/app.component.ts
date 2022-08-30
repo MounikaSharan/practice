@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+<<<<<<< HEAD
   title = 'application';
 
   public name="ABC company";
@@ -16,4 +17,7 @@ export class AppComponent {
     console.log("Registered successfully")
   }
 
+=======
+  title = 'my firstApp';
+>>>>>>> e0a97d6727baf91c7429ffeeba3c44ea82a346ba
 }

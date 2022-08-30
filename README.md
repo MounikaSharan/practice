@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Application
+=======
+# FirstApp
+>>>>>>> e0a97d6727baf91c7429ffeeba3c44ea82a346ba
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
